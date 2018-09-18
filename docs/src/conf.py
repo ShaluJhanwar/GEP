@@ -29,7 +29,7 @@ import sys, os
 # extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinx.ext.pngmath', 'sphinx.ext.ifconfig', 'sphinx.ext.viewcode', 'sphinx.ext.graphviz', 'sphinx.ext.inheritance_diagram']
 
 #extensions = ['rst2pdf.pdfbuilder']
-#pdf_documents = [('index', u'GEP', u'Generalized Enhancer Predictor', u'Ajinkya Deogade', u'Shalu Jhanwar'),]
+#pdf_documents = [('index', u'GEP', u'Generalized Enhancer Predictor', u'Shalu Jhanwar'),]
 
 # Debian 6 do NOT have such extension
 #try:
