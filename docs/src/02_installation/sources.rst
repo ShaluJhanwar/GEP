@@ -33,8 +33,8 @@ Installation
 
 1. GitHub:
 
-    Run in terminal: git clone https://github.com/ajinkya-deogade/GEP.git
+    Run in terminal: git clone https://github.com/ShaluJhanwar/GEP.git
 
-2. Download from https://github.com/ajinkya-deogade/GEP/archive/master.zip
+2. Download from https://github.com/ShaluJhanwar/GEP/archive/master.zip
 
     Download it and uncompressed the code as: gzip GEP-master.zip
