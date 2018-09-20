@@ -18,8 +18,7 @@ This project is licensed under the GNU Lesser General Public License v3.0.
 		title = {Genome-wide active enhancer identification using cell type-specific signatures of epigenomic activity},
 		year = {2018},
 		doi = {10.1101/421230},
-		publisher = {Cold Spring Harbor Laboratory},
-		abstract = {Recently enhancers have emerged as key players regulating crucial mechanisms such as cell fate determination and establishment of spatiotemporal patterns of gene expression during development. Due to their functional and structural complexity, an accurate in silico identification of active enhancers under specific conditions remain challenging. We present a novel machine learning based method that derives epigenomic patterns exclusively from experimentally characterized active enhancers contrasted with a weighted set of non-enhancer genomic regions. We demonstrate better predictive performance over previous methods, as well as wide generalizability by identifying and annotating active enhancers genome-wide across different tissues/cell types in human and mouse.},
+		publisher = {Cold Spring Harbor Laboratory},		
 		URL = {https://www.biorxiv.org/content/early/2018/09/20/421230},
 		eprint = {https://www.biorxiv.org/content/early/2018/09/20/421230.full.pdf},
 		journal = {bioRxiv}
