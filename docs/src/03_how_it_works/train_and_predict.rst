@@ -18,7 +18,7 @@ Perform following:
 * Necessary files
 
     * Positive samples: A 3 column bed file containing positive samples (Enhancers)
-    * List: A text file containing a list of all the feature files and names (see XX folder for an example: Link to Gitfolder)
+    * List: A text file containing a list of all the feature files and names (see /example/input/list.txt for an example at https://github.com/ShaluJhanwar/GEP/)
     * Chromosome: A two column tab-delimited file with Chr and sizes
     * TSS: A three column tab-delimited coding TSS file with Chr, Pos, Strand
     * Exon: A three-column exon bed file
@@ -27,8 +27,8 @@ Perform following:
 
     Note::
 
-        For Human (hg19) and mouse (mm9), refer (link to the folder) for Chromosome, TSS, aTSS files.
-        For Human (hg19), intron and exon files are provided (link to the folder)
+        For Human (hg19) and mouse (mm9), refer (/misc/ folder) for Chromosome, TSS, aTSS files.
+        For Human (hg19), intron and exon files are provided  (/misc/ folder)
 
 * Build trining data::
 
