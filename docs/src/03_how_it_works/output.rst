@@ -14,7 +14,7 @@ Feature selection
 python featureSelection.py
 
 * It provides the relative importance of the features provided by GEP on the command prompt
-* Based on the options chosen, it also shows the relative importance of the features as bar or line graph with or without variance. (see example folder link)
+* Based on the options chosen, it also shows the relative importance of the features as bar or line graph with or without variance. (see /example folder)
 
 .. _howitworks/o_predict:
 
