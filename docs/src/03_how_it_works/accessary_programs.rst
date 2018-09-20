@@ -26,7 +26,7 @@ Overlaps with different categories will be shown on stdout
 
     where, datafile is a 2D matrix with Name, class and features columns
 
-Note: see example folder (Link). Visit :ref:`howitworks/o_calML` for output
+Note: see /example folder. Visit :ref:`howitworks/o_calML` for output
 
 
 * validationTestSet.py: If you have a test dataset with the information of the classes, then use this program to get the accuracy given by the model on the test dataset.
